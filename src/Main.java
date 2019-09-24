@@ -12,4 +12,4 @@ public class Main {
         }
     }
 }
-//Lasse is the greatest
+//Lasse is the best man
